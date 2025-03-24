@@ -1,0 +1,36 @@
+
+:root{
+    --ngjyraKryesore: pink;
+}
+
+
+
+
+
+.card{
+    width: 300px;
+    height: 300px;
+    background-color: var(--ngjyraKryesore);
+    margin-top: 40px;
+}
+
+.card1{
+    width: 300px;
+    height: 300px;
+    background-color: var(--ngjyraKryesore);
+    margin-top: 40px;
+}
+
+.card2{
+    width: 300px;
+    height: 300px;
+    background-color: var(--ngjyraKryesore) ;
+    margin-top: 40px;
+}
+
+.card3{
+    width: 300px;
+    height: 300px;
+    background-color: var(--ngjyraKryesore) ;
+    margin-top: 40px;
+}

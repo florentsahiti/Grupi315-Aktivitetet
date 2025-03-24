@@ -1,0 +1,17 @@
+.description{
+    height: 80px;
+    width: 240px;
+    background-color: cornflowerblue;
+    border: 5px solid black;
+    padding-left: 40px;
+    
+}
+.description2{
+    height: 80px;
+    width: 240px;
+    background-color: cornflowerblue;
+    border: 5px solid black;
+    padding-left: 40px;
+    margin: auto;
+    
+}

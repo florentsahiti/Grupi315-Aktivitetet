@@ -1,0 +1,21 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.p1{
+    letter-spacing: 10px;
+    font-weight: 900;
+}
+
+.p2{
+    text-indent: 30px;
+    line-height: 50px;
+}
+
+h1{
+    text-align: right;
+}
+
+h2{
+    text-transform: capitalize;
+}

@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+
+.container{
+    display: flex;
+    gap: 20px;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    transition: width 0.3s ease, height 0.3s ease;
+}
+
+.box:hover{
+    width: 120px;
+    height: 120px;
+}

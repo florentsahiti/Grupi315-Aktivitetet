@@ -1,0 +1,41 @@
+/* Transform */
+/* .box{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    transform: translate(150px, 80px);
+} */
+
+/* ROTATE */
+/* .box{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transform: rotate(45deg);
+} */
+
+/* Scale */
+/* .box{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    transform: scale;
+} */
+
+
+
+/* Skew */
+/* .box{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    transform: skew(30deg, 10deg);
+} */
+
+/* matrix */
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    transform: matrix(1.5, 0.5, 1, 1.5, 50, 100);
+}
