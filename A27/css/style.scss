@@ -1,0 +1,33 @@
+// $ngjyra-kryesore: yellow;
+// $ngjyraTekstit: blue;
+// $ngjyraTitujve: red;
+
+// body{
+//     background-color: $ngjyra-kryesore;
+// }
+
+// p{
+//     color: $ngjyraTekstit;
+// }
+
+// h1{
+//     color: $ngjyraTitujve;
+// }
+
+@import "./colors";
+
+header{
+    h1{
+        font-size: 14px;
+    }
+
+    ul{
+        list-style: none;
+
+        a{
+            color: $secondarycolor;
+            background-color: $primarycolor;
+        }
+    }
+
+}

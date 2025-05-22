@@ -1,0 +1,10 @@
+header h1 {
+  font-size: 14px;
+}
+header ul {
+  list-style: none;
+}
+header ul a {
+  color: white;
+  background-color: yellow;
+}/*# sourceMappingURL=style.css.map */
